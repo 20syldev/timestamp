@@ -1,4 +1,4 @@
-name: Deploy timestamp.sylvain.pro
+name: Deploy timestamp.sylvain.sh
 
 on:
   push:
