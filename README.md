@@ -2,7 +2,7 @@
   <a href="https://timestamp.sylvain.sh"><img src="https://timestamp.sylvain.sh/assets/images/logo.png" alt="Logo" width="25%" height="auto"/></a>
 
   # Générateur de timestamp Discord
-  [![Version](https://custom-icon-badges.demolab.com/badge/Version%20:-v1.0.0-6479ee?logo=timestamp.sylvain.sh&labelColor=23272A)](https://github.com/20syldev/timestamp/releases/latest)
+  [![Version](https://custom-icon-badges.demolab.com/badge/Version%20:-v1.1.0-6479ee?logo=timestamp.sylvain.sh&labelColor=23272A)](https://github.com/20syldev/timestamp/releases/latest)
 </div>
 
 ---
